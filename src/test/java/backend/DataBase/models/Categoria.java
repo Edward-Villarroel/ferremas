@@ -1,4 +1,4 @@
-package backend.DataBase;
+package backend.DataBase.models;
 
 import java.util.List;
 
